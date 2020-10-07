@@ -1,0 +1,40 @@
+body{
+    font-family: 'Happy Monkey', cursive;
+}
+
+.container{
+    margin: auto;
+    width: 800 px;
+    box-shadow: 30px 0px 20px grey, -30px 0px 20px grey;    
+    padding: 0 50px;
+}
+p,li{
+    color: #707070;
+}
+header{
+    text-align: center;
+}
+h1{
+    #DB0038
+}
+h2{
+    #3998A3
+}
+h3{
+    #474747
+}
+.hero{
+    #f4f4f4
+    text-align: center;
+    padding-bottom: 10px;
+}
+li{
+    padding: 5px 0px;
+}
+.stars{
+    color: #F4B400;
+    font-size: 25px;
+}
+footer{
+    text-align: center;
+}
